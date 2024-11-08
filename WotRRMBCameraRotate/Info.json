@@ -7,6 +7,6 @@
   "Requirements": [],
   "AssemblyName": "WotRRMBCameraRotate.dll",
   "EntryMethod": "WotRRMBCameraRotate.Main.Load",
-  "HomePage": "",
-  "Repository": ""
+  "HomePage": "https://github.com/alterasc/WotRRMBCameraRotate",
+  "Repository": "https://raw.githubusercontent.com/alterasc/WotRRMBCameraRotate/refs/heads/main/Repository.json"
 }
