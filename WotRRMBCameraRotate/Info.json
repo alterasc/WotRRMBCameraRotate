@@ -1,0 +1,12 @@
+﻿{
+  "Id": "WotRRMBCameraRotate",
+  "DisplayName": "RMB Camera rotate",
+  "Author": "AlterAsc",
+  "Version": "0.1.0",
+  "ManagerVersion": "0.27.11",
+  "Requirements": [],
+  "AssemblyName": "WotRRMBCameraRotate.dll",
+  "EntryMethod": "WotRRMBCameraRotate.Main.Load",
+  "HomePage": "",
+  "Repository": ""
+}
